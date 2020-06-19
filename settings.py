@@ -7,8 +7,8 @@ from constants.common import BrowserType
 class Settings(object):
     instance = None
 
-    IS_JENKINS = False
-    BROWSER = BrowserType.CHROME_NATIVE
+    IS_JENKINS = True
+    BROWSER = BrowserType.CHROME_HEADLESS
 
     TESTS_PATH = 'tests'
     BASE_URL = 'http://161.35.132.42/'
