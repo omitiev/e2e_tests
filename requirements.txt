@@ -1,0 +1,8 @@
+allure-pytest
+faker
+jsonpath-rw-ext
+nose
+pytest
+python-dateutil
+requests
+selenium

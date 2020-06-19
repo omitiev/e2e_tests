@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+.noseids
+venv/*
+docker-compose.yml
+*inventory
